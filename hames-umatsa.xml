@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Hames U&#x27;Matsa — Mishne Torah — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Hames U&#x27;Matsa — Mishne Torah — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
+  <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/hames-umatsa-cover-scaled.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <item>
+    <title>Rambam&#x27;s Seder Night</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1VDCAg4JHwTvDw0nXP_XGbYfpB1TiV6Q4czyxUX7eCzg/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/a6d9512f-9751-49da-bb71-e9d94d585383
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1VDCAg4JHwTvDw0nXP_XGbYfpB1TiV6Q4czyxUX7eCzg/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/a6d9512f-9751-49da-bb71-e9d94d585383
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/hames-umatsa-000-rambam-s-seder-night.mp3" length="34362068" type="audio/mpeg"/>
+    <guid isPermaLink="false">hames-umatsa-000</guid>
+    <pubDate>Thu, 01 Jan 2026 07:00:00 -0000</pubDate>
+    <itunes:duration>1:09:20</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
