@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Taanit — Mishne Torah — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Taanit — Mishne Torah — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
+  <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/taanit-cover-scaled.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <item>
+    <title>&quot;As If We Destroyed It&quot;: The Rambam&#x27;s Radical Take on Tisha B&#x27;Av | Hilchot Ta&#x27;aniyot Perek 5</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1hyRpKfiokyL6tKtO23mv1mTVZEQ6P71vPz41gKSK-IY/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/5be14aca-5a42-484d-8766-fe7d12eb94ff
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1hyRpKfiokyL6tKtO23mv1mTVZEQ6P71vPz41gKSK-IY/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/5be14aca-5a42-484d-8766-fe7d12eb94ff
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/taanit-000-as-if-we-destroyed-it-the-rambam-s-radical-take-on-tish.mp3" length="27993596" type="audio/mpeg"/>
+    <guid isPermaLink="false">taanit-000</guid>
+    <pubDate>Thu, 01 Jan 2026 07:00:00 -0000</pubDate>
+    <itunes:duration>0:58:42</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Why Do We Fast? The Rambam on Trumpets, Teshuvah &amp; Ze&#x27;akah | Hilchot Ta&#x27;aniyot Perek 1</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1qmUhWQN3YK0Tc2xgoM9zpe8qMdP6qvRc0CAeCyKao-E/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/66afe176-10a5-4fa9-be81-0839c964ea2c
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1qmUhWQN3YK0Tc2xgoM9zpe8qMdP6qvRc0CAeCyKao-E/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/66afe176-10a5-4fa9-be81-0839c964ea2c
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/taanit-001-why-do-we-fast-the-rambam-on-trumpets-teshuvah-ze-akah-.mp3" length="27333692" type="audio/mpeg"/>
+    <guid isPermaLink="false">taanit-001</guid>
+    <pubDate>Thu, 01 Jan 2026 08:00:00 -0000</pubDate>
+    <itunes:duration>0:55:56</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
