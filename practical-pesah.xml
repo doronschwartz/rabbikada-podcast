@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Practical Laws of Pesah — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Practical Laws of Pesah — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
+  <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/practical-pesah-cover-scaled.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <item>
+    <title>Misconceptions About Pesah</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/11X7oMZPvxvsuYd23ouo7l4TuyW606XhsKzTWARyvZxQ/edit?usp=sharing
+
+Transcript of the shiur - https://app.sofer.ai/transcript/cbecda95-3293-479f-bbe3-4d3038856e0b
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/11X7oMZPvxvsuYd23ouo7l4TuyW606XhsKzTWARyvZxQ/edit?usp=sharing
+
+Transcript of the shiur - https://app.sofer.ai/transcript/cbecda95-3293-479f-bbe3-4d3038856e0b
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/practical-pesah-000-misconceptions-about-pesah-1.mp3" length="23334764" type="audio/mpeg"/>
+    <guid isPermaLink="false">practical-pesah-000</guid>
+    <pubDate>Thu, 01 Jan 2026 07:00:00 -0000</pubDate>
+    <itunes:duration>0:57:35</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Kashering Utensils</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1kqdocQ7csMK1BnhWTJy0Cap9V4he671Dg5OIhr30srM/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/4e48cbd5-cc11-49b2-ba12-eb1158ee1964
+
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1kqdocQ7csMK1BnhWTJy0Cap9V4he671Dg5OIhr30srM/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/4e48cbd5-cc11-49b2-ba12-eb1158ee1964
+
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/practical-pesah-001-kashering-utensils.mp3" length="30116084" type="audio/mpeg"/>
+    <guid isPermaLink="false">practical-pesah-001</guid>
+    <pubDate>Thu, 01 Jan 2026 08:00:00 -0000</pubDate>
+    <itunes:duration>1:08:07</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Seder Night</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1kd_6hIvAvFcfGAo47dcRSgXMG4qPMi25gam1Hjn_pxs/edit?usp=sharing
+
+Transcript of the shiur - https://app.sofer.ai/transcript/2022b6f6-a328-443a-98a0-1d5b98ae51c2
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1kd_6hIvAvFcfGAo47dcRSgXMG4qPMi25gam1Hjn_pxs/edit?usp=sharing
+
+Transcript of the shiur - https://app.sofer.ai/transcript/2022b6f6-a328-443a-98a0-1d5b98ae51c2
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/practical-pesah-002-the-seder-night-1.mp3" length="25650716" type="audio/mpeg"/>
+    <guid isPermaLink="false">practical-pesah-002</guid>
+    <pubDate>Thu, 01 Jan 2026 09:00:00 -0000</pubDate>
+    <itunes:duration>0:56:00</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
