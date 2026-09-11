@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel><title>Hilchot Shofar (Mishneh Torah) — Dayan Daniel Kada</title><link>https://rabbikada.com</link><language>en</language>
-<description>Dayan Daniel Kada's shiurim on the Rambam's Hilchot Shofar (Mishneh Torah).</description>
-<itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
-<itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/shofar-cover-scaled.jpg"/><itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
-  <item><title>The Mitzvah Is to Hear, Not to Blow: The Rambam on Shofar &amp; Shabbat</title><description>Hilchot Shofar, Perek 2 — Dayan Daniel Kada. The Rambam on the mitzvah of hearing the shofar and its interaction with Shabbat.</description>
-    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/hilchot-shofar-02.mp3" length="22211540" type="audio/mpeg"/><guid isPermaLink="false">shofar-002</guid>
-    <pubDate>Tue, 01 Sep 2026 07:00:00 -0000</pubDate>
-    <itunes:duration>0:46:47</itunes:duration><itunes:episode>2</itunes:episode><itunes:explicit>false</itunes:explicit></item>
-</channel></rss>
+<channel>
+  <title>Hilchot Shofar — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Hilchot Shofar — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
+  <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/shofar-cover-scaled.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <item>
+    <title>The Mitzvah Is to Hear, Not to Blow: The Rambam on Shofar &amp; Shabbat</title>
+    <description>Hilchot Shofar, Perek 2 — Dayan Daniel Kada.</description>
+    <itunes:summary>Hilchot Shofar, Perek 2 — Dayan Daniel Kada.</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/hilchot-shofar-02.mp3" length="22211540" type="audio/mpeg"/>
+    <guid isPermaLink="false">shofar-000</guid>
+    <pubDate>Thu, 01 Jan 2026 07:00:00 -0000</pubDate>
+    <itunes:duration>0:46:47</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
