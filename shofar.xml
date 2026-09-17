@@ -9,6 +9,29 @@
   <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/mishneh-torah-tishrei-cover-scaled.jpg"/>
   <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
   <item>
+    <title>Driving on Shabbat Is Worse Than Yom Kippur: The Rambam on Work &amp; Karet | Hilchot Shevitat Asor 1</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1WiKviv6WTe4wd1U2bo4mmvDyN-pba53Q3UvPvs3eC7E/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/ed62d2b6-41cd-4e50-b342-4ca28c894b9b
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/nitgexpO-YM</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1WiKviv6WTe4wd1U2bo4mmvDyN-pba53Q3UvPvs3eC7E/edit?usp=sharing
+
+Transcript for the shiur - https://app.sofer.ai/transcript/ed62d2b6-41cd-4e50-b342-4ca28c894b9b
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/nitgexpO-YM</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/mishneh-torah-tishrei-yom-kippur-1.mp3" length="23905097" type="audio/mpeg"/>
+    <guid isPermaLink="false">shofar-000</guid>
+    <pubDate>Thu, 17 Sep 2026 12:00:00 -0000</pubDate>
+    <itunes:duration>0:49:48</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>The Mitzvah Is to Hear, Not to Blow: The Rambam on Shofar &amp; Shabbat</title>
     <description>Notes based on the transcript - https://docs.google.com/document/d/1WiKviv6WTe4wd1U2bo4mmvDyN-pba53Q3UvPvs3eC7E/edit?usp=sharing
 
@@ -25,10 +48,10 @@ Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live se
 
 ▶ Watch on YouTube: https://youtu.be/6SqFU46amtc</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/hilchot-shofar-02.mp3" length="22211540" type="audio/mpeg"/>
-    <guid isPermaLink="false">shofar-000</guid>
+    <guid isPermaLink="false">shofar-001</guid>
     <pubDate>Thu, 10 Sep 2026 22:02:06 -0000</pubDate>
     <itunes:duration>0:46:47</itunes:duration>
-    <itunes:episode>1</itunes:episode>
+    <itunes:episode>2</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
