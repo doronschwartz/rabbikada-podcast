@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <title>Daily Halacha — Dayan Daniel Kada</title>
-  <link>https://rabbikada.com</link>
-  <language>en</language>
-  <description>Short daily halacha shiurim from Dayan Daniel Kada for the Yamim Noraim — the laws and customs of Elul &amp; Selichot, Rosh Hashanah, Yom Kippur and Sukkot.</description>
-  <itunes:author>Dayan Daniel Kada</itunes:author>
-  <itunes:summary>Short daily halacha shiurim from Dayan Daniel Kada for the Yamim Noraim — the laws and customs of Elul &amp; Selichot, Rosh Hashanah, Yom Kippur and Sukkot.</itunes:summary>
-  <itunes:type>episodic</itunes:type>
-  <itunes:explicit>false</itunes:explicit>
+  <title>Daily Halacha — Yamim Noraim &amp; Sukkot — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Daily Halacha — Yamim Noraim &amp; Sukkot — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
   <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
   <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/09/daily-halacha-cover-scaled.jpg"/>
   <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
   <item>
     <title>Origins of Selichot during Elul</title>
-    <itunes:title>Origins of Selichot during Elul</itunes:title>
-    <description>Elul — Good morning and Shavua Tov! 
+    <description>Good morning and Shavua Tov! 
 
 I hope we all had a nice summer break. We return now with Halachot for the upcoming Yamim Noraim.  
 
@@ -30,8 +25,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Elul — Good morning and Shavua Tov! 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/nojTMtNL3EA</description>
+    <itunes:summary>Good morning and Shavua Tov! 
 
 I hope we all had a nice summer break. We return now with Halachot for the upcoming Yamim Noraim.  
 
@@ -46,96 +43,106 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/nojTMtNL3EA</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/00-origins-of-selichot-during-elul.mp3" length="5904044" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-000</guid>
-    <pubDate>Sat, 01 Aug 2026 06:00:00 -0000</pubDate>
-    <itunes:duration>6:53</itunes:duration>
+    <pubDate>Sun, 16 Aug 2026 06:00:22 -0000</pubDate>
+    <itunes:duration>0:06:53</itunes:duration>
     <itunes:episode>1</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Reciting Selichot at Night and Other Times</title>
-    <itunes:title>Reciting Selichot at Night and Other Times</itunes:title>
-    <description>Elul — Reciting Selihot at night and other times
+    <description>Reciting Selihot at night and other times
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Elul — Reciting Selihot at night and other times
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/vxpF2MAOI64</description>
+    <itunes:summary>Reciting Selihot at night and other times
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/vxpF2MAOI64</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/01-reciting-selichot-at-night-and-other-times.mp3" length="6352316" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-001</guid>
-    <pubDate>Sat, 01 Aug 2026 07:00:00 -0000</pubDate>
-    <itunes:duration>7:22</itunes:duration>
+    <pubDate>Mon, 17 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:07:22</itunes:duration>
     <itunes:episode>2</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Selichot Without a Minyan</title>
-    <itunes:title>Selichot Without a Minyan</itunes:title>
-    <description>Elul — Selihot without a minyan
+    <description>Selihot without a minyan
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Elul — Selihot without a minyan
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/HrURRcctE14</description>
+    <itunes:summary>Selihot without a minyan
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/HrURRcctE14</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/02-selichot-without-a-minyan.mp3" length="3695468" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-002</guid>
-    <pubDate>Sat, 01 Aug 2026 08:00:00 -0000</pubDate>
-    <itunes:duration>4:25</itunes:duration>
+    <pubDate>Tue, 18 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:04:25</itunes:duration>
     <itunes:episode>3</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Counting the 13 Attributes of Mercy During Selichot</title>
-    <itunes:title>Counting the 13 Attributes of Mercy During Selichot</itunes:title>
-    <description>Elul — Counting the 13 attributes of mercy during Selihot
+    <description>Counting the 13 attributes of mercy during Selihot
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Elul — Counting the 13 attributes of mercy during Selihot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/exVPRpQaCsM</description>
+    <itunes:summary>Counting the 13 attributes of mercy during Selihot
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/exVPRpQaCsM</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/03-counting-the-13-attributes-of-mercy-during-selichot.mp3" length="3426908" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-003</guid>
-    <pubDate>Sat, 01 Aug 2026 09:00:00 -0000</pubDate>
-    <itunes:duration>4:04</itunes:duration>
+    <pubDate>Wed, 19 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:04:04</itunes:duration>
     <itunes:episode>4</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Origins of Immersing in a Mikveh on Erev Rosh Hashanah and Yom Kippur</title>
-    <itunes:title>The Origins of Immersing in a Mikveh on Erev Rosh Hashanah and Yom Kippur</itunes:title>
-    <description>Elul — Shavua Tov and welcome back!
+    <description>Shavua Tov and welcome back!
 
 We will study the relevant הלכות of the forthcoming days.  
 
@@ -150,8 +157,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Elul — Shavua Tov and welcome back!
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/GhSgRBI4Mww</description>
+    <itunes:summary>Shavua Tov and welcome back!
 
 We will study the relevant הלכות of the forthcoming days.  
 
@@ -166,226 +175,251 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/GhSgRBI4Mww</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/04-the-origins-of-immersing-in-a-mikveh-on-erev-rosh-hashanah-a.mp3" length="3649988" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-004</guid>
-    <pubDate>Sat, 01 Aug 2026 10:00:00 -0000</pubDate>
-    <itunes:duration>5:47</itunes:duration>
+    <pubDate>Thu, 20 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:05:47</itunes:duration>
     <itunes:episode>5</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Minhag of Visiting Cemeteries Before Rosh Hashanah</title>
-    <itunes:title>The Minhag of Visiting Cemeteries Before Rosh Hashanah</itunes:title>
-    <description>Elul — The Minhag of visiting cemeteries before Rosh Hashanah
+    <description>The Minhag of visiting cemeteries before Rosh Hashanah
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Elul — The Minhag of visiting cemeteries before Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ARwlpMiOtss</description>
+    <itunes:summary>The Minhag of visiting cemeteries before Rosh Hashanah
 
 Daily Halacha — Elul &amp; Selichot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ARwlpMiOtss</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/05-the-minhag-of-visiting-cemeteries-before-rosh-hashanah.mp3" length="3698228" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-005</guid>
-    <pubDate>Sat, 01 Aug 2026 11:00:00 -0000</pubDate>
-    <itunes:duration>5:31</itunes:duration>
+    <pubDate>Fri, 21 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:05:31</itunes:duration>
     <itunes:episode>6</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Essence of the Mitsvah of Shofar</title>
-    <itunes:title>The Essence of the Mitsvah of Shofar</itunes:title>
-    <description>Rosh Hashana — The essence of the Misvah of Shofar
+    <description>The essence of the Misvah of Shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — The essence of the Misvah of Shofar
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/6w8lCZjIZ4Q</description>
+    <itunes:summary>The essence of the Misvah of Shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/6w8lCZjIZ4Q</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/06-the-essence-of-the-mitsvah-of-shofar.mp3" length="4149236" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-006</guid>
-    <pubDate>Sat, 01 Aug 2026 12:00:00 -0000</pubDate>
-    <itunes:duration>4:59</itunes:duration>
+    <pubDate>Sun, 23 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:04:59</itunes:duration>
     <itunes:episode>7</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>How We Got to 100 Sounds of Shofar — Part 1</title>
-    <itunes:title>How We Got to 100 Sounds of Shofar — Part 1</itunes:title>
-    <description>Rosh Hashana — How we got to 100 sounds of shofar
+    <description>How we got to 100 sounds of shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — How we got to 100 sounds of shofar
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/F2uL_HCdSVo</description>
+    <itunes:summary>How we got to 100 sounds of shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/F2uL_HCdSVo</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/07-how-we-got-to-100-sounds-of-shofar-part-1.mp3" length="5472092" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-007</guid>
-    <pubDate>Sat, 01 Aug 2026 13:00:00 -0000</pubDate>
-    <itunes:duration>6:20</itunes:duration>
+    <pubDate>Mon, 24 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:06:20</itunes:duration>
     <itunes:episode>8</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>How We Got to 100 Sounds of Shofar — Part 2</title>
-    <itunes:title>How We Got to 100 Sounds of Shofar — Part 2</itunes:title>
-    <description>Rosh Hashana — How we got to 100 sounds of shofar - part 2
+    <description>How we got to 100 sounds of shofar - part 2
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — How we got to 100 sounds of shofar - part 2
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/iRk4HAdFrvU</description>
+    <itunes:summary>How we got to 100 sounds of shofar - part 2
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/iRk4HAdFrvU</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/08-how-we-got-to-100-sounds-of-shofar-part-2-1.mp3" length="4960700" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-008</guid>
-    <pubDate>Sat, 01 Aug 2026 14:00:00 -0000</pubDate>
-    <itunes:duration>5:40</itunes:duration>
+    <pubDate>Tue, 25 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:05:40</itunes:duration>
     <itunes:episode>9</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Sitting or Standing for Shofar</title>
-    <itunes:title>Sitting or Standing for Shofar</itunes:title>
-    <description>Rosh Hashana — Sitting or standing for Shofar
+    <description>Sitting or standing for Shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Sitting or standing for Shofar
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/8pSSwqDSq6o</description>
+    <itunes:summary>Sitting or standing for Shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/8pSSwqDSq6o</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/09-sitting-or-standing-for-shofar.mp3" length="5370812" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-009</guid>
-    <pubDate>Sat, 01 Aug 2026 15:00:00 -0000</pubDate>
-    <itunes:duration>6:02</itunes:duration>
+    <pubDate>Wed, 26 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:06:02</itunes:duration>
     <itunes:episode>10</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Tribute to Her Late Majesty &amp; Speaking During Shofar</title>
-    <itunes:title>A Tribute to Her Late Majesty &amp; Speaking During Shofar</itunes:title>
-    <description>Rosh Hashana — A tribute to Her Late Majesty and speaking during hearing the shofar
+    <description>A tribute to Her Late Majesty and speaking during hearing the shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — A tribute to Her Late Majesty and speaking during hearing the shofar
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/lsZ74bfkVEE</description>
+    <itunes:summary>A tribute to Her Late Majesty and speaking during hearing the shofar
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/lsZ74bfkVEE</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/10-a-tribute-to-her-late-majesty-speaking-during-shofar.mp3" length="5517884" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-010</guid>
-    <pubDate>Sat, 01 Aug 2026 16:00:00 -0000</pubDate>
-    <itunes:duration>6:01</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:04 -0000</pubDate>
+    <itunes:duration>0:06:01</itunes:duration>
     <itunes:episode>11</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Speaking Before Having Heard the Full Set of Shofar Blows</title>
-    <itunes:title>Speaking Before Having Heard the Full Set of Shofar Blows</itunes:title>
-    <description>Rosh Hashana — Speaking before having heard the full set of Shofar blows
+    <description>Speaking before having heard the full set of Shofar blows
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Speaking before having heard the full set of Shofar blows
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/KWl5lODs0zA</description>
+    <itunes:summary>Speaking before having heard the full set of Shofar blows
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/KWl5lODs0zA</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/11-speaking-before-having-heard-the-full-set-of-shofar-blows.mp3" length="4274684" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-011</guid>
-    <pubDate>Sat, 01 Aug 2026 17:00:00 -0000</pubDate>
-    <itunes:duration>4:42</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 06:00:06 -0000</pubDate>
+    <itunes:duration>0:04:42</itunes:duration>
     <itunes:episode>12</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Not Hearing Shofar Too Early</title>
-    <itunes:title>Not Hearing Shofar Too Early</itunes:title>
-    <description>Rosh Hashana — Not hearing shofar too early
+    <description>Not hearing shofar too early
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Not hearing shofar too early
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/obQpUK3Q2Sg</description>
+    <itunes:summary>Not hearing shofar too early
 
 Daily Halacha — Shofar series
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/obQpUK3Q2Sg</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/12-not-hearing-shofar-too-early.mp3" length="4673060" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-012</guid>
-    <pubDate>Sat, 01 Aug 2026 18:00:00 -0000</pubDate>
-    <itunes:duration>5:20</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:08:43 -0000</pubDate>
+    <itunes:duration>0:05:20</itunes:duration>
     <itunes:episode>13</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Blowing the Shofar for Fun on Rosh Hashanah</title>
-    <itunes:title>Blowing the Shofar for Fun on Rosh Hashanah</itunes:title>
-    <description>Rosh Hashana — Good morning and welcome back! 
+    <description>Good morning and welcome back! 
 
 This week we will discuss some of the halachot of Rosh Hashanah and next week some ideas to prepare us. Today: 
 
@@ -398,8 +432,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Good morning and welcome back! 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ac3T0KRqRg0</description>
+    <itunes:summary>Good morning and welcome back! 
 
 This week we will discuss some of the halachot of Rosh Hashanah and next week some ideas to prepare us. Today: 
 
@@ -412,18 +448,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ac3T0KRqRg0</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/13-blowing-the-shofar-for-fun-on-rosh-hashanah.mp3" length="4810652" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-013</guid>
-    <pubDate>Sat, 01 Aug 2026 19:00:00 -0000</pubDate>
-    <itunes:duration>5:54</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:08:48 -0000</pubDate>
+    <itunes:duration>0:05:54</itunes:duration>
     <itunes:episode>14</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Do Women Need to Hear Shofar?</title>
-    <itunes:title>Do Women Need to Hear Shofar?</itunes:title>
-    <description>Rosh Hashana — Good morning, 
+    <description>Good morning, 
 
 Do Women need to hear Shofar?
 
@@ -434,8 +471,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Good morning, 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/jBrUoz0MLys</description>
+    <itunes:summary>Good morning, 
 
 Do Women need to hear Shofar?
 
@@ -446,18 +485,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/jBrUoz0MLys</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/14-do-women-need-to-hear-shofar.mp3" length="4877228" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-014</guid>
-    <pubDate>Sat, 01 Aug 2026 20:00:00 -0000</pubDate>
-    <itunes:duration>6:06</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:08:53 -0000</pubDate>
+    <itunes:duration>0:06:06</itunes:duration>
     <itunes:episode>15</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Shofar: The Challenge of Freedom</title>
-    <itunes:title>Shofar: The Challenge of Freedom</itunes:title>
-    <description>Rosh Hashana — ‘Shofar: The challenge of Freedom’
+    <description>‘Shofar: The challenge of Freedom’
 
 Wishing the entire group and your families a happy and healthy year ahead! It has been wonderful seeing this group grow and look forward to another year of Torah together. 
 
@@ -470,8 +510,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — ‘Shofar: The challenge of Freedom’
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/yhHiotO-3bQ</description>
+    <itunes:summary>‘Shofar: The challenge of Freedom’
 
 Wishing the entire group and your families a happy and healthy year ahead! It has been wonderful seeing this group grow and look forward to another year of Torah together. 
 
@@ -484,40 +526,44 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/yhHiotO-3bQ</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/15-shofar-the-challenge-of-freedom.mp3" length="4209956" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-015</guid>
-    <pubDate>Sat, 01 Aug 2026 21:00:00 -0000</pubDate>
-    <itunes:duration>5:13</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:00 -0000</pubDate>
+    <itunes:duration>0:05:13</itunes:duration>
     <itunes:episode>16</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Source of Hatarat Nedarim on Rosh Hashanah Eve</title>
-    <itunes:title>The Source of Hatarat Nedarim on Rosh Hashanah Eve</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/6wdAFgwPIpQ</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/6wdAFgwPIpQ</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/16-the-source-of-hatarat-nedarim-on-rosh-hashanah-eve.mp3" length="4119932" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-016</guid>
-    <pubDate>Sat, 01 Aug 2026 22:00:00 -0000</pubDate>
-    <itunes:duration>6:01</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:04 -0000</pubDate>
+    <itunes:duration>0:06:01</itunes:duration>
     <itunes:episode>17</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Eruv Tavshilin: Reasons and Origins</title>
-    <itunes:title>Eruv Tavshilin: Reasons and Origins</itunes:title>
-    <description>Rosh Hashana — Shavua Tov
+    <description>Shavua Tov
 
 Eruv Tavshilin this year: 
 
@@ -528,8 +574,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Shavua Tov
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/OB9V5iZ0Ne4</description>
+    <itunes:summary>Shavua Tov
 
 Eruv Tavshilin this year: 
 
@@ -540,18 +588,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/OB9V5iZ0Ne4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/17-eruv-tavshilin-reasons-and-origins.mp3" length="3668132" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-017</guid>
-    <pubDate>Sat, 01 Aug 2026 23:00:00 -0000</pubDate>
-    <itunes:duration>5:46</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:08 -0000</pubDate>
+    <itunes:duration>0:05:46</itunes:duration>
     <itunes:episode>18</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Eruv Tavshilin: How Much, When and How Long</title>
-    <itunes:title>Eruv Tavshilin: How Much, When and How Long</itunes:title>
-    <description>Rosh Hashana — Eruv Tavshilin Part 2: 
+    <description>Eruv Tavshilin Part 2: 
 
 How much, when to do it and how long for.
 
@@ -560,8 +609,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Eruv Tavshilin Part 2: 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/_mGI5XNPrME</description>
+    <itunes:summary>Eruv Tavshilin Part 2: 
 
 How much, when to do it and how long for.
 
@@ -570,44 +621,48 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/_mGI5XNPrME</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/18-eruv-tavshilin-how-much-when-and-how-long.mp3" length="3433124" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-018</guid>
-    <pubDate>Sun, 02 Aug 2026 00:00:00 -0000</pubDate>
-    <itunes:duration>5:22</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:12 -0000</pubDate>
+    <itunes:duration>0:05:22</itunes:duration>
     <itunes:episode>19</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Person Who Forgot Eruv Tavshilin</title>
-    <itunes:title>A Person Who Forgot Eruv Tavshilin</itunes:title>
-    <description>Rosh Hashana — A person who forgot Eruv Tavshilin
+    <description>A person who forgot Eruv Tavshilin
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — A person who forgot Eruv Tavshilin
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/q_y71_dVRTs</description>
+    <itunes:summary>A person who forgot Eruv Tavshilin
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/q_y71_dVRTs</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/19-a-person-who-forgot-eruv-tavshilin.mp3" length="3923372" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-019</guid>
-    <pubDate>Sun, 02 Aug 2026 01:00:00 -0000</pubDate>
-    <itunes:duration>6:08</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:24 -0000</pubDate>
+    <itunes:duration>0:06:08</itunes:duration>
     <itunes:episode>20</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Simanim on Rosh Hashanah and Superstitions — Part 1</title>
-    <itunes:title>Simanim on Rosh Hashanah and Superstitions — Part 1</itunes:title>
-    <description>Rosh Hashana — Good morning 
+    <description>Good morning 
 
 Longer than usual recording but important topic,
 
@@ -620,8 +675,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Good morning 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/U5pI7VcskeM</description>
+    <itunes:summary>Good morning 
 
 Longer than usual recording but important topic,
 
@@ -634,18 +691,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/U5pI7VcskeM</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/20-simanim-on-rosh-hashanah-and-superstitions-part-1.mp3" length="6285836" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-020</guid>
-    <pubDate>Sun, 02 Aug 2026 02:00:00 -0000</pubDate>
-    <itunes:duration>7:47</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:16 -0000</pubDate>
+    <itunes:duration>0:07:47</itunes:duration>
     <itunes:episode>21</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Simanim of Rosh Hashanah — Part 2</title>
-    <itunes:title>Simanim of Rosh Hashanah — Part 2</itunes:title>
-    <description>Rosh Hashana — Good morning 
+    <description>Good morning 
 
 ‘Simanim of Rosh Hashanah Part 2’ 
 
@@ -656,8 +714,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Good morning 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/3fgRWrCql_k</description>
+    <itunes:summary>Good morning 
 
 ‘Simanim of Rosh Hashanah Part 2’ 
 
@@ -668,202 +728,227 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/3fgRWrCql_k</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/21-simanim-of-rosh-hashanah-part-2.mp3" length="4849532" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-021</guid>
-    <pubDate>Sun, 02 Aug 2026 03:00:00 -0000</pubDate>
-    <itunes:duration>5:59</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:30 -0000</pubDate>
+    <itunes:duration>0:05:59</itunes:duration>
     <itunes:episode>22</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Origins of Piyutim and Their Place in Prayer</title>
-    <itunes:title>The Origins of Piyutim and Their Place in Prayer</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/GTqzSEpqP_U</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/GTqzSEpqP_U</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/22-the-origins-of-piyutim-and-their-place-in-prayer-1.mp3" length="5402684" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-022</guid>
-    <pubDate>Sun, 02 Aug 2026 04:00:00 -0000</pubDate>
-    <itunes:duration>7:53</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:34 -0000</pubDate>
+    <itunes:duration>0:07:53</itunes:duration>
     <itunes:episode>23</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Structure of the Musaf Prayer</title>
-    <itunes:title>The Structure of the Musaf Prayer</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/gALao33_Srg</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/gALao33_Srg</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/23-the-structure-of-the-musaf-prayer.mp3" length="4249484" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-023</guid>
-    <pubDate>Sun, 02 Aug 2026 05:00:00 -0000</pubDate>
-    <itunes:duration>6:04</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:49 -0000</pubDate>
+    <itunes:duration>0:06:04</itunes:duration>
     <itunes:episode>24</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Sitting During the Repetition of the Amidah and When the Ark Is Open</title>
-    <itunes:title>Sitting During the Repetition of the Amidah and When the Ark Is Open</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/V95QN6s5oS0</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/V95QN6s5oS0</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/24-sitting-during-the-repetition-of-the-amidah-and-when-the-ark.mp3" length="3484364" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-024</guid>
-    <pubDate>Sun, 02 Aug 2026 06:00:00 -0000</pubDate>
-    <itunes:duration>5:11</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:45 -0000</pubDate>
+    <itunes:duration>0:05:11</itunes:duration>
     <itunes:episode>25</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Avinu Malkenu: Its Origins and Recital on Shabbat</title>
-    <itunes:title>Avinu Malkenu: Its Origins and Recital on Shabbat</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/hmRbepzqzWU</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/hmRbepzqzWU</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/25-avinu-malkenu-its-origins-and-recital-on-shabbat.mp3" length="4199444" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-025</guid>
-    <pubDate>Sun, 02 Aug 2026 07:00:00 -0000</pubDate>
-    <itunes:duration>6:03</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:15 -0000</pubDate>
+    <itunes:duration>0:06:03</itunes:duration>
     <itunes:episode>26</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Not Blowing Shofar When Rosh Hashanah Falls on Shabbat</title>
-    <itunes:title>Not Blowing Shofar When Rosh Hashanah Falls on Shabbat</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/Kkyhs-ACX28</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/Kkyhs-ACX28</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/26-not-blowing-shofar-when-rosh-hashanah-falls-on-shabbat.mp3" length="4281452" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-026</guid>
-    <pubDate>Sun, 02 Aug 2026 08:00:00 -0000</pubDate>
-    <itunes:duration>6:04</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:08 -0000</pubDate>
+    <itunes:duration>0:06:04</itunes:duration>
     <itunes:episode>27</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Sleeping on Rosh Hashanah</title>
-    <itunes:title>Sleeping on Rosh Hashanah</itunes:title>
-    <description>Rosh Hashana — Daily Halacha — Rosh Hashanah
+    <description>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Daily Halacha — Rosh Hashanah
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/kMuO_B4UNL4</description>
+    <itunes:summary>Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/kMuO_B4UNL4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/27-sleeping-on-rosh-hashanah.mp3" length="5260604" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-027</guid>
-    <pubDate>Sun, 02 Aug 2026 09:00:00 -0000</pubDate>
-    <itunes:duration>6:40</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:56 -0000</pubDate>
+    <itunes:duration>0:06:40</itunes:duration>
     <itunes:episode>28</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Tashlikh: Its Origins and Customs</title>
-    <itunes:title>Tashlikh: Its Origins and Customs</itunes:title>
-    <description>Rosh Hashana — Tashlikh: It’s origins and customs
+    <description>Tashlikh: It’s origins and customs
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Tashlikh: It’s origins and customs
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/44ezbOKU7kU</description>
+    <itunes:summary>Tashlikh: It’s origins and customs
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/44ezbOKU7kU</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/28-tashlikh-its-origins-and-customs.mp3" length="5448572" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-028</guid>
-    <pubDate>Sun, 02 Aug 2026 10:00:00 -0000</pubDate>
-    <itunes:duration>6:45</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:00 -0000</pubDate>
+    <itunes:duration>0:06:45</itunes:duration>
     <itunes:episode>29</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Message for Rosh Hashanah: Life Is Fickle</title>
-    <itunes:title>A Message for Rosh Hashanah: Life Is Fickle</itunes:title>
-    <description>Rosh Hashana — A message for Rosh Hashanah: Life is Fickle
+    <description>A message for Rosh Hashanah: Life is Fickle
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — A message for Rosh Hashanah: Life is Fickle
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/pEt98AfsWxc</description>
+    <itunes:summary>A message for Rosh Hashanah: Life is Fickle
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/pEt98AfsWxc</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/29-a-message-for-rosh-hashanah-life-is-fickle.mp3" length="3163364" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-029</guid>
-    <pubDate>Sun, 02 Aug 2026 11:00:00 -0000</pubDate>
-    <itunes:duration>5:04</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:20 -0000</pubDate>
+    <itunes:duration>0:05:04</itunes:duration>
     <itunes:episode>30</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Our Individual and National Vision for the Coming Year</title>
-    <itunes:title>Our Individual and National Vision for the Coming Year</itunes:title>
-    <description>Rosh Hashana — A Thought for Rosh Hashanah 5786: 
+    <description>A Thought for Rosh Hashanah 5786: 
 
 *‘Our Individual and National Vision for the Coming Year*’. 
 
@@ -874,8 +959,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — A Thought for Rosh Hashanah 5786: 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/tv6KP0LfXs4</description>
+    <itunes:summary>A Thought for Rosh Hashanah 5786: 
 
 *‘Our Individual and National Vision for the Coming Year*’. 
 
@@ -886,70 +973,77 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/tv6KP0LfXs4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/30-our-individual-and-national-vision-for-the-coming-year.mp3" length="3425132" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-030</guid>
-    <pubDate>Sun, 02 Aug 2026 12:00:00 -0000</pubDate>
-    <itunes:duration>5:17</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:09:39 -0000</pubDate>
+    <itunes:duration>0:05:17</itunes:duration>
     <itunes:episode>31</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Suspension of Din on Rosh Hashanah</title>
-    <itunes:title>Suspension of Din on Rosh Hashanah</itunes:title>
-    <description>Rosh Hashana — Suspension of Din on Rosh Hashanah - Shabbat Shalom
+    <description>Suspension of Din on Rosh Hashanah - Shabbat Shalom
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Suspension of Din on Rosh Hashanah - Shabbat Shalom
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/YHeTOqTMCjY</description>
+    <itunes:summary>Suspension of Din on Rosh Hashanah - Shabbat Shalom
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/YHeTOqTMCjY</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/31-suspension-of-din-on-rosh-hashanah.mp3" length="5618036" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-031</guid>
-    <pubDate>Sun, 02 Aug 2026 13:00:00 -0000</pubDate>
-    <itunes:duration>6:56</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:12 -0000</pubDate>
+    <itunes:duration>0:06:56</itunes:duration>
     <itunes:episode>32</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Rosh Hashanah Is Not About Praying for Oneself</title>
-    <itunes:title>Rosh Hashanah Is Not About Praying for Oneself</itunes:title>
-    <description>Rosh Hashana — Rosh Hashanah is not about praying for oneself
+    <description>Rosh Hashanah is not about praying for oneself
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Rosh Hashana — Rosh Hashanah is not about praying for oneself
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/1MVWv_foq3k</description>
+    <itunes:summary>Rosh Hashanah is not about praying for oneself
 
 Daily Halacha — Rosh Hashanah
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/1MVWv_foq3k</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/32-rosh-hashanah-is-not-about-praying-for-oneself.mp3" length="3395324" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-032</guid>
-    <pubDate>Sun, 02 Aug 2026 14:00:00 -0000</pubDate>
-    <itunes:duration>5:08</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:18 -0000</pubDate>
+    <itunes:duration>0:05:08</itunes:duration>
     <itunes:episode>33</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Is Teshuvah a Mitsvah?</title>
-    <itunes:title>Is Teshuvah a Mitsvah?</itunes:title>
-    <description>Yom Kippur — Shavua Tov 
+    <description>Shavua Tov 
 
 Is Teshuvah a Mitsvah
 
@@ -958,8 +1052,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Shavua Tov 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/2DhS7Wx-CFY</description>
+    <itunes:summary>Shavua Tov 
 
 Is Teshuvah a Mitsvah
 
@@ -968,18 +1064,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/2DhS7Wx-CFY</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/33-is-teshuvah-a-mitsvah.mp3" length="4977164" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-033</guid>
-    <pubDate>Sun, 02 Aug 2026 15:00:00 -0000</pubDate>
-    <itunes:duration>6:10</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:24 -0000</pubDate>
+    <itunes:duration>0:06:10</itunes:duration>
     <itunes:episode>34</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Kapparot and Eating Before Yom Kippur</title>
-    <itunes:title>Kapparot and Eating Before Yom Kippur</itunes:title>
-    <description>Yom Kippur — Good morning 
+    <description>Good morning 
 
 Kapparot and Eating before Kippur 
 
@@ -990,8 +1087,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Good morning 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/YML8-TIs9xQ</description>
+    <itunes:summary>Good morning 
 
 Kapparot and Eating before Kippur 
 
@@ -1002,18 +1101,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/YML8-TIs9xQ</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/34-kapparot-and-eating-before-yom-kippur.mp3" length="4112204" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-034</guid>
-    <pubDate>Sun, 02 Aug 2026 16:00:00 -0000</pubDate>
-    <itunes:duration>5:14</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:38 -0000</pubDate>
+    <itunes:duration>0:05:14</itunes:duration>
     <itunes:episode>35</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Letting Go of the Hate</title>
-    <itunes:title>Letting Go of the Hate</itunes:title>
-    <description>Yom Kippur — From the archives: 
+    <description>From the archives: 
 
 ‘Letting go of Hate’
 
@@ -1028,8 +1128,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — From the archives: 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/IQfn_gnm1lY</description>
+    <itunes:summary>From the archives: 
 
 ‘Letting go of Hate’
 
@@ -1044,44 +1146,48 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/IQfn_gnm1lY</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/35-letting-go-of-the-hate.mp3" length="4925852" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-035</guid>
-    <pubDate>Sun, 02 Aug 2026 17:00:00 -0000</pubDate>
-    <itunes:duration>6:10</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:57 -0000</pubDate>
+    <itunes:duration>0:06:10</itunes:duration>
     <itunes:episode>36</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Eating and Drinking for Medical Reasons on Yom Kippur</title>
-    <itunes:title>Eating and Drinking for Medical Reasons on Yom Kippur</itunes:title>
-    <description>Yom Kippur — Eating and drinking for medical reasons on Yom Kippur
+    <description>Eating and drinking for medical reasons on Yom Kippur
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Eating and drinking for medical reasons on Yom Kippur
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/1IBPUADLWlQ</description>
+    <itunes:summary>Eating and drinking for medical reasons on Yom Kippur
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/1IBPUADLWlQ</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/36-eating-and-drinking-for-medical-reasons-on-yom-kippur.mp3" length="4933316" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-036</guid>
-    <pubDate>Sun, 02 Aug 2026 18:00:00 -0000</pubDate>
-    <itunes:duration>5:46</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:52 -0000</pubDate>
+    <itunes:duration>0:05:46</itunes:duration>
     <itunes:episode>37</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Children Fasting on Yom Kippur</title>
-    <itunes:title>Children Fasting on Yom Kippur</itunes:title>
-    <description>Yom Kippur — Children fasting on Kippur
+    <description>Children fasting on Kippur
 
 Shabbat shalom
 
@@ -1090,8 +1196,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Children fasting on Kippur
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/6SOz0O6qM6k</description>
+    <itunes:summary>Children fasting on Kippur
 
 Shabbat shalom
 
@@ -1100,136 +1208,152 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/6SOz0O6qM6k</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/37-children-fasting-on-yom-kippur.mp3" length="4040756" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-037</guid>
-    <pubDate>Sun, 02 Aug 2026 19:00:00 -0000</pubDate>
-    <itunes:duration>4:49</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:27 -0000</pubDate>
+    <itunes:duration>0:04:49</itunes:duration>
     <itunes:episode>38</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Taking Pills Before Yom Kippur to Ease the Fast</title>
-    <itunes:title>Taking Pills Before Yom Kippur to Ease the Fast</itunes:title>
-    <description>Yom Kippur — Taking pills before Kippur to ease the fast
+    <description>Taking pills before Kippur to ease the fast
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Taking pills before Kippur to ease the fast
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/rBj1MuQpauc</description>
+    <itunes:summary>Taking pills before Kippur to ease the fast
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/rBj1MuQpauc</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/38-taking-pills-before-yom-kippur-to-ease-the-fast.mp3" length="2983580" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-038</guid>
-    <pubDate>Sun, 02 Aug 2026 20:00:00 -0000</pubDate>
-    <itunes:duration>3:30</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:28 -0000</pubDate>
+    <itunes:duration>0:03:30</itunes:duration>
     <itunes:episode>39</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Asking Forgiveness From Others — Not on Erev Yom Kippur</title>
-    <itunes:title>Asking Forgiveness From Others — Not on Erev Yom Kippur</itunes:title>
-    <description>Yom Kippur — Daily Halacha — Teshuva &amp; Yom Kippur
+    <description>Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Daily Halacha — Teshuva &amp; Yom Kippur
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/4yY8RvTFrH0</description>
+    <itunes:summary>Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/4yY8RvTFrH0</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/39-asking-forgiveness-from-others-not-on-erev-yom-kippur.mp3" length="5046788" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-039</guid>
-    <pubDate>Sun, 02 Aug 2026 21:00:00 -0000</pubDate>
-    <itunes:duration>6:57</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:41 -0000</pubDate>
+    <itunes:duration>0:06:57</itunes:duration>
     <itunes:episode>40</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Neilah: Importance and Timing</title>
-    <itunes:title>Neilah: Importance and Timing</itunes:title>
-    <description>Yom Kippur — Daily Halacha — Teshuva &amp; Yom Kippur
+    <description>Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Daily Halacha — Teshuva &amp; Yom Kippur
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/PQKQoRMJ1U4</description>
+    <itunes:summary>Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/PQKQoRMJ1U4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/40-neilah-importance-and-timing.mp3" length="4107764" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-040</guid>
-    <pubDate>Sun, 02 Aug 2026 22:00:00 -0000</pubDate>
-    <itunes:duration>5:56</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:03 -0000</pubDate>
+    <itunes:duration>0:05:56</itunes:duration>
     <itunes:episode>41</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Key Parts of Yom Kippur for Those Unable to Be in Synagogue for Long</title>
-    <itunes:title>The Key Parts of Yom Kippur for Those Unable to Be in Synagogue for Long</itunes:title>
-    <description>Yom Kippur — Daily Halacha — Teshuva &amp; Yom Kippur
+    <description>Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Daily Halacha — Teshuva &amp; Yom Kippur
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/jDMZ2UVgECE</description>
+    <itunes:summary>Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/jDMZ2UVgECE</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/41-the-key-parts-of-yom-kippur-for-those-unable-to-be-in-synago.mp3" length="4613612" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-041</guid>
-    <pubDate>Sun, 02 Aug 2026 23:00:00 -0000</pubDate>
-    <itunes:duration>6:53</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:00 -0000</pubDate>
+    <itunes:duration>0:06:53</itunes:duration>
     <itunes:episode>42</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Unique Havdala on Motsei Yom Kippur &amp; Shabbat</title>
-    <itunes:title>The Unique Havdala on Motsei Yom Kippur &amp; Shabbat</itunes:title>
-    <description>Yom Kippur — Unique Havdala this Motsei Yom Kippur and Shabbat - Besamim and Fire.
+    <description>Unique Havdala this Motsei Yom Kippur and Shabbat - Besamim and Fire.
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Unique Havdala this Motsei Yom Kippur and Shabbat - Besamim and Fire.
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/AYeQ3AxoVrA</description>
+    <itunes:summary>Unique Havdala this Motsei Yom Kippur and Shabbat - Besamim and Fire.
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/AYeQ3AxoVrA</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/42-the-unique-havdala-on-motsei-yom-kippur-shabbat.mp3" length="4041692" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-042</guid>
-    <pubDate>Mon, 03 Aug 2026 00:00:00 -0000</pubDate>
-    <itunes:duration>6:12</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:24 -0000</pubDate>
+    <itunes:duration>0:06:12</itunes:duration>
     <itunes:episode>43</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>How a Posek&#x27;s Philosophy Is Crucial to Understanding Their Rulings</title>
-    <itunes:title>How a Posek&#x27;s Philosophy Is Crucial to Understanding Their Rulings</itunes:title>
-    <description>Yom Kippur — Tizku LeShanim Rabbot
+    <description>Tizku LeShanim Rabbot
 
 ‘How a Posek’s philosophy is crucial to understanding their rulings’
 
@@ -1238,8 +1362,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Tizku LeShanim Rabbot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/V5-qOoFSL_A</description>
+    <itunes:summary>Tizku LeShanim Rabbot
 
 ‘How a Posek’s philosophy is crucial to understanding their rulings’
 
@@ -1248,70 +1374,77 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/V5-qOoFSL_A</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/43-how-a-posek-s-philosophy-is-crucial-to-understanding-their-r.mp3" length="6451292" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-043</guid>
-    <pubDate>Mon, 03 Aug 2026 01:00:00 -0000</pubDate>
-    <itunes:duration>7:19</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:34 -0000</pubDate>
+    <itunes:duration>0:07:19</itunes:duration>
     <itunes:episode>44</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Those Who Need to Eat on Yom Kippur</title>
-    <itunes:title>Those Who Need to Eat on Yom Kippur</itunes:title>
-    <description>Yom Kippur — Those who need to eat on Yom Kippur
+    <description>Those who need to eat on Yom Kippur
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — Those who need to eat on Yom Kippur
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/hMvTJ5VVAKc</description>
+    <itunes:summary>Those who need to eat on Yom Kippur
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/hMvTJ5VVAKc</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/44-those-who-need-to-eat-on-yom-kippur.mp3" length="4931396" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-044</guid>
-    <pubDate>Mon, 03 Aug 2026 02:00:00 -0000</pubDate>
-    <itunes:duration>5:45</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:17 -0000</pubDate>
+    <itunes:duration>0:05:45</itunes:duration>
     <itunes:episode>45</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Origins of the Minhag of Kapparot</title>
-    <itunes:title>The Origins of the Minhag of Kapparot</itunes:title>
-    <description>Yom Kippur — The origins of the Minhag of Kapparot
+    <description>The origins of the Minhag of Kapparot
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — The origins of the Minhag of Kapparot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/bGF2v5nyw-8</description>
+    <itunes:summary>The origins of the Minhag of Kapparot
 
 Daily Halacha — Teshuva &amp; Yom Kippur
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/bGF2v5nyw-8</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/45-the-origins-of-the-minhag-of-kapparot.mp3" length="3911420" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-045</guid>
-    <pubDate>Mon, 03 Aug 2026 03:00:00 -0000</pubDate>
-    <itunes:duration>6:02</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:49 -0000</pubDate>
+    <itunes:duration>0:06:02</itunes:duration>
     <itunes:episode>46</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Thought for Yom Kippur: The 13 Attributes of Mercy</title>
-    <itunes:title>A Thought for Yom Kippur: The 13 Attributes of Mercy</itunes:title>
-    <description>Yom Kippur — A thought for Yom Kippur: 
+    <description>A thought for Yom Kippur: 
 The 13 attributes of Mercy . 
 
 תזכו לשנים רבות נעימות וטובות ושבת שלום
@@ -1321,8 +1454,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — A thought for Yom Kippur: 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/xJ_vYSN16FA</description>
+    <itunes:summary>A thought for Yom Kippur: 
 The 13 attributes of Mercy . 
 
 תזכו לשנים רבות נעימות וטובות ושבת שלום
@@ -1332,18 +1467,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/xJ_vYSN16FA</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/46-a-thought-for-yom-kippur-the-13-attributes-of-mercy.mp3" length="3104660" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-046</guid>
-    <pubDate>Mon, 03 Aug 2026 04:00:00 -0000</pubDate>
-    <itunes:duration>4:53</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:20 -0000</pubDate>
+    <itunes:duration>0:04:53</itunes:duration>
     <itunes:episode>47</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Thought for Yom Kippur: The Inherent Goodness Within Each One of Us</title>
-    <itunes:title>A Thought for Yom Kippur: The Inherent Goodness Within Each One of Us</itunes:title>
-    <description>Yom Kippur — A Thought for Yom Kippur 5786: 
+    <description>A Thought for Yom Kippur 5786: 
 
 *The Inherent Goodness Within Each One of Us*
 
@@ -1354,8 +1490,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Yom Kippur — A Thought for Yom Kippur 5786: 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/Soh9tGFBjLk</description>
+    <itunes:summary>A Thought for Yom Kippur 5786: 
 
 *The Inherent Goodness Within Each One of Us*
 
@@ -1366,18 +1504,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/Soh9tGFBjLk</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/47-a-thought-for-yom-kippur-the-inherent-goodness-within-each-o.mp3" length="3308420" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-047</guid>
-    <pubDate>Mon, 03 Aug 2026 05:00:00 -0000</pubDate>
-    <itunes:duration>5:09</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:10:45 -0000</pubDate>
+    <itunes:duration>0:05:09</itunes:duration>
     <itunes:episode>48</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>What Does Dwelling in a Sukkah Actually Mean?</title>
-    <itunes:title>What Does Dwelling in a Sukkah Actually Mean?</itunes:title>
-    <description>Sukkot — Moadim LeSimcha!
+    <description>Moadim LeSimcha!
 
 ‘What Does Dwelling in a Sukkah actually mean?’
 
@@ -1388,8 +1527,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Moadim LeSimcha!
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/RxjRDM48Rwo</description>
+    <itunes:summary>Moadim LeSimcha!
 
 ‘What Does Dwelling in a Sukkah actually mean?’
 
@@ -1400,44 +1541,48 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/RxjRDM48Rwo</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/48-what-does-dwelling-in-a-sukkah-actually-mean.mp3" length="4028660" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-048</guid>
-    <pubDate>Mon, 03 Aug 2026 06:00:00 -0000</pubDate>
-    <itunes:duration>5:12</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:34 -0000</pubDate>
+    <itunes:duration>0:05:12</itunes:duration>
     <itunes:episode>49</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>What Actually Needs to Be Consumed in the Sukkah?</title>
-    <itunes:title>What Actually Needs to Be Consumed in the Sukkah?</itunes:title>
-    <description>Sukkot — Good morning - ‘What Actually needs to be consumed in the sukkah?’
+    <description>Good morning - ‘What Actually needs to be consumed in the sukkah?’
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Good morning - ‘What Actually needs to be consumed in the sukkah?’
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/Q66_U8k9Dko</description>
+    <itunes:summary>Good morning - ‘What Actually needs to be consumed in the sukkah?’
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/Q66_U8k9Dko</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/49-what-actually-needs-to-be-consumed-in-the-sukkah.mp3" length="4630892" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-049</guid>
-    <pubDate>Mon, 03 Aug 2026 07:00:00 -0000</pubDate>
-    <itunes:duration>5:54</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:42 -0000</pubDate>
+    <itunes:duration>0:05:54</itunes:duration>
     <itunes:episode>50</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Message for Sukkot</title>
-    <itunes:title>A Message for Sukkot</itunes:title>
-    <description>Sukkot — A message for Sukkot.
+    <description>A message for Sukkot.
 
 תזכו לשנים רבות נעימות וטובות!
 
@@ -1446,8 +1591,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — A message for Sukkot.
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/rB-FImP3e2Q</description>
+    <itunes:summary>A message for Sukkot.
 
 תזכו לשנים רבות נעימות וטובות!
 
@@ -1456,18 +1603,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/rB-FImP3e2Q</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/50-a-message-for-sukkot.mp3" length="4839788" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-050</guid>
-    <pubDate>Mon, 03 Aug 2026 08:00:00 -0000</pubDate>
-    <itunes:duration>5:34</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:38 -0000</pubDate>
+    <itunes:duration>0:05:34</itunes:duration>
     <itunes:episode>51</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Kiddush on Shabbat Morning on Sukkot</title>
-    <itunes:title>Kiddush on Shabbat Morning on Sukkot</itunes:title>
-    <description>Sukkot — Moadim LeSimha !
+    <description>Moadim LeSimha !
 
 ‘Kiddush on Shabbat morning on Sukkot’
 
@@ -1478,8 +1626,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Moadim LeSimha !
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/1FsWUHTTHP4</description>
+    <itunes:summary>Moadim LeSimha !
 
 ‘Kiddush on Shabbat morning on Sukkot’
 
@@ -1490,62 +1640,69 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/1FsWUHTTHP4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/51-kiddush-on-shabbat-morning-on-sukkot.mp3" length="2078876" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-051</guid>
-    <pubDate>Mon, 03 Aug 2026 09:00:00 -0000</pubDate>
-    <itunes:duration>2:43</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:58 -0000</pubDate>
+    <itunes:duration>0:02:43</itunes:duration>
     <itunes:episode>52</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Kiddush on Sukkot</title>
-    <itunes:title>Kiddush on Sukkot</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/mElyFv4QO7M</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/mElyFv4QO7M</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/52-kiddush-on-sukkot.mp3" length="4288700" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-052</guid>
-    <pubDate>Mon, 03 Aug 2026 10:00:00 -0000</pubDate>
-    <itunes:duration>4:53</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:52 -0000</pubDate>
+    <itunes:duration>0:04:53</itunes:duration>
     <itunes:episode>53</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Women in Sukkah</title>
-    <itunes:title>Women in Sukkah</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/4DOdZ0UCT-Q</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/4DOdZ0UCT-Q</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/53-women-in-sukkah.mp3" length="4290620" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-053</guid>
-    <pubDate>Mon, 03 Aug 2026 11:00:00 -0000</pubDate>
-    <itunes:duration>4:53</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:05 -0000</pubDate>
+    <itunes:duration>0:04:53</itunes:duration>
     <itunes:episode>54</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Use of the Arba Minim for Other Purposes and Their Status on Shabbat</title>
-    <itunes:title>The Use of the Arba Minim for Other Purposes and Their Status on Shabbat</itunes:title>
-    <description>Sukkot — מועדים לשמחה 
+    <description>מועדים לשמחה 
 
 The Use of Arba Minim for other purposes during sukkot and it’s status on Shabbat
 
@@ -1554,8 +1711,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — מועדים לשמחה 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/0_tNeotZPV8</description>
+    <itunes:summary>מועדים לשמחה 
 
 The Use of Arba Minim for other purposes during sukkot and it’s status on Shabbat
 
@@ -1564,92 +1723,102 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/0_tNeotZPV8</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/54-the-use-of-the-arba-minim-for-other-purposes-and-their-statu.mp3" length="4508012" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-054</guid>
-    <pubDate>Mon, 03 Aug 2026 12:00:00 -0000</pubDate>
-    <itunes:duration>5:21</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:31 -0000</pubDate>
+    <itunes:duration>0:05:21</itunes:duration>
     <itunes:episode>55</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Etrog Is Not Muktzeh on Shabbat</title>
-    <itunes:title>Etrog Is Not Muktzeh on Shabbat</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ZutUeQxVFJA</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ZutUeQxVFJA</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/55-etrog-is-not-muktzeh-on-shabbat.mp3" length="2163356" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-055</guid>
-    <pubDate>Mon, 03 Aug 2026 13:00:00 -0000</pubDate>
-    <itunes:duration>3:12</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:15 -0000</pubDate>
+    <itunes:duration>0:03:12</itunes:duration>
     <itunes:episode>56</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>When It Rains on the First Night of Sukkot — Part 1</title>
-    <itunes:title>When It Rains on the First Night of Sukkot — Part 1</itunes:title>
-    <description>Sukkot — When it rains on the first night of Sukkot, Part 1
+    <description>When it rains on the first night of Sukkot, Part 1
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — When it rains on the first night of Sukkot, Part 1
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/T11cqZWJpZs</description>
+    <itunes:summary>When it rains on the first night of Sukkot, Part 1
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/T11cqZWJpZs</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/56-when-it-rains-on-the-first-night-of-sukkot-part-1-1.mp3" length="3637964" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-056</guid>
-    <pubDate>Mon, 03 Aug 2026 14:00:00 -0000</pubDate>
-    <itunes:duration>5:21</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:22 -0000</pubDate>
+    <itunes:duration>0:05:21</itunes:duration>
     <itunes:episode>57</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>When It Rains on the First Night of Sukkot — Part 2</title>
-    <itunes:title>When It Rains on the First Night of Sukkot — Part 2</itunes:title>
-    <description>Sukkot — When it rains on the first night of Sukkot, Part 2
+    <description>When it rains on the first night of Sukkot, Part 2
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — When it rains on the first night of Sukkot, Part 2
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/OulsgdougvQ</description>
+    <itunes:summary>When it rains on the first night of Sukkot, Part 2
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/OulsgdougvQ</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/57-when-it-rains-on-the-first-night-of-sukkot-part-2-1.mp3" length="4015028" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-057</guid>
-    <pubDate>Mon, 03 Aug 2026 15:00:00 -0000</pubDate>
-    <itunes:duration>6:08</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:35 -0000</pubDate>
+    <itunes:duration>0:06:08</itunes:duration>
     <itunes:episode>58</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Reason for the Mizmorim We Read on Sukkot and Shemini Atseret</title>
-    <itunes:title>The Reason for the Mizmorim We Read on Sukkot and Shemini Atseret</itunes:title>
-    <description>Sukkot — Moadim LeSimha,
+    <description>Moadim LeSimha,
 
 The reason for the Mizmorim we read on Sukkot and Shemini Aseret
 
@@ -1658,8 +1827,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Moadim LeSimha,
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/TOrlHosEvFY</description>
+    <itunes:summary>Moadim LeSimha,
 
 The reason for the Mizmorim we read on Sukkot and Shemini Aseret
 
@@ -1668,18 +1839,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/TOrlHosEvFY</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/58-the-reason-for-the-mizmorim-we-read-on-sukkot-and-shemini-at.mp3" length="4748420" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-058</guid>
-    <pubDate>Mon, 03 Aug 2026 16:00:00 -0000</pubDate>
-    <itunes:duration>6:35</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:08 -0000</pubDate>
+    <itunes:duration>0:06:35</itunes:duration>
     <itunes:episode>59</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Mitsvah of Hakhel Every 7 Years on Sukkot in Temple Times</title>
-    <itunes:title>The Mitsvah of Hakhel Every 7 Years on Sukkot in Temple Times</itunes:title>
-    <description>Sukkot — Moadim LeSimha ! 
+    <description>Moadim LeSimha ! 
 
 The Misvah of Hakhel every 7 years on Sukkot in Temple Times
 
@@ -1688,8 +1860,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Moadim LeSimha ! 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/sCQK5gvKOuU</description>
+    <itunes:summary>Moadim LeSimha ! 
 
 The Misvah of Hakhel every 7 years on Sukkot in Temple Times
 
@@ -1698,62 +1872,69 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/sCQK5gvKOuU</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/59-the-mitsvah-of-hakhel-every-7-years-on-sukkot-in-temple-time.mp3" length="3364916" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-059</guid>
-    <pubDate>Mon, 03 Aug 2026 17:00:00 -0000</pubDate>
-    <itunes:duration>5:15</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:55 -0000</pubDate>
+    <itunes:duration>0:05:15</itunes:duration>
     <itunes:episode>60</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>How Knowing History Is Important in Halacha</title>
-    <itunes:title>How Knowing History Is Important in Halacha</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/-cUaIBHeP0o</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/-cUaIBHeP0o</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/60-how-knowing-history-is-important-in-halacha.mp3" length="4213340" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-060</guid>
-    <pubDate>Mon, 03 Aug 2026 18:00:00 -0000</pubDate>
-    <itunes:duration>5:55</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:48 -0000</pubDate>
+    <itunes:duration>0:05:55</itunes:duration>
     <itunes:episode>61</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Sukkot: Happiness, Flow and Death</title>
-    <itunes:title>Sukkot: Happiness, Flow and Death</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/4PrNx2Wh7i8</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/4PrNx2Wh7i8</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/61-sukkot-happiness-flow-and-death.mp3" length="4371572" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-061</guid>
-    <pubDate>Mon, 03 Aug 2026 19:00:00 -0000</pubDate>
-    <itunes:duration>6:40</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:18 -0000</pubDate>
+    <itunes:duration>0:06:40</itunes:duration>
     <itunes:episode>62</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Thought for the Chag</title>
-    <itunes:title>A Thought for the Chag</itunes:title>
-    <description>Sukkot — A thought on this beautiful day. 
+    <description>A thought on this beautiful day. 
 
 תזכו לשנים רבות נעימות וטובות
 
@@ -1762,8 +1943,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — A thought on this beautiful day. 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/W2VoPT5Ne48</description>
+    <itunes:summary>A thought on this beautiful day. 
 
 תזכו לשנים רבות נעימות וטובות
 
@@ -1772,18 +1955,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/W2VoPT5Ne48</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/62-a-thought-for-the-chag.mp3" length="2506172" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-062</guid>
-    <pubDate>Mon, 03 Aug 2026 20:00:00 -0000</pubDate>
-    <itunes:duration>3:54</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:31 -0000</pubDate>
+    <itunes:duration>0:03:54</itunes:duration>
     <itunes:episode>63</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>The Mitsvah of Hakhel Nowadays</title>
-    <itunes:title>The Mitsvah of Hakhel Nowadays</itunes:title>
-    <description>Sukkot — Moadim LeSimha 
+    <description>Moadim LeSimha 
 
 The Misvah of Hakhel nowadays
 
@@ -1792,8 +1976,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Moadim LeSimha 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/9zgnX3oFNoQ</description>
+    <itunes:summary>Moadim LeSimha 
 
 The Misvah of Hakhel nowadays
 
@@ -1802,18 +1988,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/9zgnX3oFNoQ</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/63-the-mitsvah-of-hakhel-nowadays.mp3" length="3563612" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-063</guid>
-    <pubDate>Mon, 03 Aug 2026 21:00:00 -0000</pubDate>
-    <itunes:duration>5:28</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:01 -0000</pubDate>
+    <itunes:duration>0:05:28</itunes:duration>
     <itunes:episode>64</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Explanation of Sukkat David HaNofelet</title>
-    <itunes:title>Explanation of Sukkat David HaNofelet</itunes:title>
-    <description>Sukkot — מועדים לשמחה
+    <description>מועדים לשמחה
 
 Explanation of סכת דוד הנופלת
 
@@ -1822,8 +2009,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — מועדים לשמחה
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/hNYEiGDX6fg</description>
+    <itunes:summary>מועדים לשמחה
 
 Explanation of סכת דוד הנופלת
 
@@ -1832,40 +2021,44 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/hNYEiGDX6fg</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/64-explanation-of-sukkat-david-hanofelet.mp3" length="3176084" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-064</guid>
-    <pubDate>Mon, 03 Aug 2026 22:00:00 -0000</pubDate>
-    <itunes:duration>4:50</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:42 -0000</pubDate>
+    <itunes:duration>0:04:50</itunes:duration>
     <itunes:episode>65</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Sukkot as a Time to Recharge Our Happiness</title>
-    <itunes:title>Sukkot as a Time to Recharge Our Happiness</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/SM5jFVQQGgE</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/SM5jFVQQGgE</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/65-sukkot-as-a-time-to-recharge-our-happiness.mp3" length="4053356" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-065</guid>
-    <pubDate>Mon, 03 Aug 2026 23:00:00 -0000</pubDate>
-    <itunes:duration>6:02</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:12:38 -0000</pubDate>
+    <itunes:duration>0:06:02</itunes:duration>
     <itunes:episode>66</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Message for Shemini Atseret: How to Interact with the World Around Us</title>
-    <itunes:title>A Message for Shemini Atseret: How to Interact with the World Around Us</itunes:title>
-    <description>Sukkot — Moadim LeSimcha,
+    <description>Moadim LeSimcha,
 
 ‘A message for Shemini Atseret: How to Interact with the world around us’
 
@@ -1876,8 +2069,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Moadim LeSimcha,
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/sMDDhQa1uGs</description>
+    <itunes:summary>Moadim LeSimcha,
 
 ‘A message for Shemini Atseret: How to Interact with the world around us’
 
@@ -1888,44 +2083,48 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/sMDDhQa1uGs</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/66-a-message-for-shemini-atseret-how-to-interact-with-the-world.mp3" length="5119244" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-066</guid>
-    <pubDate>Tue, 04 Aug 2026 00:00:00 -0000</pubDate>
-    <itunes:duration>6:25</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:31:58 -0000</pubDate>
+    <itunes:duration>0:06:25</itunes:duration>
     <itunes:episode>67</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Is Rain on Sukkot a Bad Omen?</title>
-    <itunes:title>Is Rain on Sukkot a Bad Omen?</itunes:title>
-    <description>Sukkot — Is rain on Sukkot a bad omen?
+    <description>Is rain on Sukkot a bad omen?
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Is rain on Sukkot a bad omen?
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/SNt6LdMFiEs</description>
+    <itunes:summary>Is rain on Sukkot a bad omen?
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/SNt6LdMFiEs</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/67-is-rain-on-sukkot-a-bad-omen.mp3" length="3787220" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-067</guid>
-    <pubDate>Tue, 04 Aug 2026 01:00:00 -0000</pubDate>
-    <itunes:duration>5:35</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:31:49 -0000</pubDate>
+    <itunes:duration>0:05:35</itunes:duration>
     <itunes:episode>68</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Explanation of Sukkat Oro Shel Livyatan</title>
-    <itunes:title>Explanation of Sukkat Oro Shel Livyatan</itunes:title>
-    <description>Sukkot — מועדים לשמחה 
+    <description>מועדים לשמחה 
 
 Explanation of: סוכת עורו של לוויתן
 
@@ -1934,8 +2133,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — מועדים לשמחה 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/b4ECiI6fwC4</description>
+    <itunes:summary>מועדים לשמחה 
 
 Explanation of: סוכת עורו של לוויתן
 
@@ -1944,18 +2145,19 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/b4ECiI6fwC4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/68-explanation-of-sukkat-oro-shel-livyatan.mp3" length="4634468" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-068</guid>
-    <pubDate>Tue, 04 Aug 2026 02:00:00 -0000</pubDate>
-    <itunes:duration>6:53</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:31:52 -0000</pubDate>
+    <itunes:duration>0:06:53</itunes:duration>
     <itunes:episode>69</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Commemorating Shemini Atseret &amp; Simchat Torah</title>
-    <itunes:title>Commemorating Shemini Atseret &amp; Simchat Torah</itunes:title>
-    <description>Sukkot — Longer recording than usual: 
+    <description>Longer recording than usual: 
 
 Some thoughts on how to commemorate Shemini Atseret and Simhat Torah this year. 🇮🇱
 
@@ -1966,8 +2168,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Longer recording than usual: 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/DG6Bhhaaqs8</description>
+    <itunes:summary>Longer recording than usual: 
 
 Some thoughts on how to commemorate Shemini Atseret and Simhat Torah this year. 🇮🇱
 
@@ -1978,44 +2182,48 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/DG6Bhhaaqs8</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/69-commemorating-shemini-atseret-simchat-torah.mp3" length="6447284" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-069</guid>
-    <pubDate>Tue, 04 Aug 2026 03:00:00 -0000</pubDate>
-    <itunes:duration>10:08</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:31:44 -0000</pubDate>
+    <itunes:duration>0:10:08</itunes:duration>
     <itunes:episode>70</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Do You Need to Eat in the Sukkah on a Chol HaMoed Outing?</title>
-    <itunes:title>Do You Need to Eat in the Sukkah on a Chol HaMoed Outing?</itunes:title>
-    <description>Sukkot — Do you need to eat in sukkah if you go for a Hal HaMoed outing ?
+    <description>Do you need to eat in sukkah if you go for a Hal HaMoed outing ?
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Do you need to eat in sukkah if you go for a Hal HaMoed outing ?
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/SCaUQvRCCok</description>
+    <itunes:summary>Do you need to eat in sukkah if you go for a Hal HaMoed outing ?
 
 Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/SCaUQvRCCok</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/70-do-you-need-to-eat-in-the-sukkah-on-a-chol-hamoed-outing.mp3" length="3252692" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-070</guid>
-    <pubDate>Tue, 04 Aug 2026 04:00:00 -0000</pubDate>
-    <itunes:duration>4:47</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:32:10 -0000</pubDate>
+    <itunes:duration>0:04:47</itunes:duration>
     <itunes:episode>71</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>A Message for Sukkot — Part 2</title>
-    <itunes:title>A Message for Sukkot — Part 2</itunes:title>
-    <description>Sukkot — Part 2: A Message for Sukkot 
+    <description>Part 2: A Message for Sukkot 
 
 תזכו לשנים רבות נעימות וטובות!!
 
@@ -2024,8 +2232,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Part 2: A Message for Sukkot 
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/KDgxgVisCk4</description>
+    <itunes:summary>Part 2: A Message for Sukkot 
 
 תזכו לשנים רבות נעימות וטובות!!
 
@@ -2034,40 +2244,44 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/KDgxgVisCk4</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/71-a-message-for-sukkot-part-2.mp3" length="2861036" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-071</guid>
-    <pubDate>Tue, 04 Aug 2026 05:00:00 -0000</pubDate>
-    <itunes:duration>3:39</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:32:01 -0000</pubDate>
+    <itunes:duration>0:03:39</itunes:duration>
     <itunes:episode>72</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Simchat Torah: Origins and Customs</title>
-    <itunes:title>Simchat Torah: Origins and Customs</itunes:title>
-    <description>Sukkot — Daily Halacha — Sukkot
+    <description>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Daily Halacha — Sukkot
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/NjmSHqrkPfM</description>
+    <itunes:summary>Daily Halacha — Sukkot
 Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/NjmSHqrkPfM</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/72-simchat-torah-origins-and-customs.mp3" length="3409436" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-072</guid>
-    <pubDate>Tue, 04 Aug 2026 06:00:00 -0000</pubDate>
-    <itunes:duration>5:01</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 20:32:06 -0000</pubDate>
+    <itunes:duration>0:05:01</itunes:duration>
     <itunes:episode>73</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Discarding the Arba Minim</title>
-    <itunes:title>Discarding the Arba Minim</itunes:title>
-    <description>Sukkot — Tizku Leshanim Rabbot!
+    <description>Tizku Leshanim Rabbot!
 
 ‘Discarding the Arba Minim’
 
@@ -2078,8 +2292,10 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</description>
-    <itunes:summary>Sukkot — Tizku Leshanim Rabbot!
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ZQRJam5Vz5w</description>
+    <itunes:summary>Tizku Leshanim Rabbot!
 
 ‘Discarding the Arba Minim’
 
@@ -2090,11 +2306,13 @@ Dayan Daniel Kada
 
 Part of the daily halacha series for the Yamim Noraim (Elul, Rosh Hashanah, Yom Kippur and Sukkot).
 
-תזכו לשנים רבות נעימות וטובות</itunes:summary>
+תזכו לשנים רבות נעימות וטובות
+
+▶ Watch on YouTube: https://youtu.be/ZQRJam5Vz5w</itunes:summary>
     <enclosure url="https://rabbikada.com/wp-content/uploads/2026/09/73-discarding-the-arba-minim.mp3" length="3006812" type="audio/mpeg"/>
     <guid isPermaLink="false">kada-daily-halacha-073</guid>
-    <pubDate>Tue, 04 Aug 2026 07:00:00 -0000</pubDate>
-    <itunes:duration>3:50</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 18:11:45 -0000</pubDate>
+    <itunes:duration>0:03:50</itunes:duration>
     <itunes:episode>74</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
