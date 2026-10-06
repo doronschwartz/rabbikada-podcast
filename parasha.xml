@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Weekly Parasha — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Weekly Parasha — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>episodic</itunes:type><itunes:explicit>false</itunes:explicit>
+  <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/10/parasha-cover-scaled.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <item>
+    <title>The Essence of Torah is Decency and Uprightness | Parashat Bereishit</title>
+    <description>The Essence of Torah is Decency and Uprightness
+Parashat Bereishit (בראשית) — Dayan Daniel Kada
+
+Part of the Weekly Parasha series: halachot and insights on the parasha of the week.
+
+שבת שלום
+
+▶ Watch on YouTube: https://youtu.be/DlqTKTpobLM</description>
+    <itunes:summary>The Essence of Torah is Decency and Uprightness
+Parashat Bereishit (בראשית) — Dayan Daniel Kada
+
+Part of the Weekly Parasha series: halachot and insights on the parasha of the week.
+
+שבת שלום
+
+▶ Watch on YouTube: https://youtu.be/DlqTKTpobLM</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/10/parasha-000-the-essence-of-torah-is-decency-and-uprightness-parasha.mp3" length="2920556" type="audio/mpeg"/>
+    <guid isPermaLink="false">parasha-DlqTKTpobLM</guid>
+    <pubDate>Tue, 06 Oct 2026 15:19:24 -0000</pubDate>
+    <itunes:duration>0:06:04</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
