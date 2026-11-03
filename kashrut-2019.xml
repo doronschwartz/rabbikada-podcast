@@ -122,20 +122,5 @@ Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live se
     <itunes:episode>6</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
-  <item>
-    <title>Kashrut practical - How to check for Bugs</title>
-    <description>Dayan Daniel Kada.
-
-▶ Watch on YouTube: https://youtu.be/tbLaonpx_Rs</description>
-    <itunes:summary>Dayan Daniel Kada.
-
-▶ Watch on YouTube: https://youtu.be/tbLaonpx_Rs</itunes:summary>
-    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/11/kashrut-2019-006-kashrut-practical-how-to-check-for-bugs.mp3" length="57915068" type="audio/mpeg"/>
-    <guid isPermaLink="false">kashrut-2019-tbLaonpx_Rs</guid>
-    <pubDate>Tue, 23 Jul 2019 22:24:27 -0000</pubDate>
-    <itunes:duration>1:54:59</itunes:duration>
-    <itunes:episode>7</itunes:episode>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
 </channel>
 </rss>
