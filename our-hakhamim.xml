@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Our Hakhamim — Dayan Daniel Kada</title>
+  <link>https://rabbikada.com</link><language>en</language>
+  <description>Our Hakhamim — shiurim and daily halacha from Dayan Daniel Kada.</description>
+  <itunes:author>Dayan Daniel Kada</itunes:author><itunes:type>serial</itunes:type><itunes:explicit>false</itunes:explicit>
+  <itunes:owner><itunes:name>Dayan Daniel Kada</itunes:name><itunes:email>doroneschwartz@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://rabbikada.com/wp-content/uploads/2026/11/our-hakhamim-cover-scaled.jpg"/>
+  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+  <item>
+    <title>Rav Uziel: The Chief Rabbi Who Would Not Stand Aside | Our Hakhamim</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1SW2D34aJq5Sboxr0_FMjKfEzUEbDknCk7AAU1tLalJw/edit?usp=sharing
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/oALACGWhIyQ</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1SW2D34aJq5Sboxr0_FMjKfEzUEbDknCk7AAU1tLalJw/edit?usp=sharing
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/oALACGWhIyQ</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/11/our-hakhamim-000-rav-uziel-the-chief-rabbi-who-would-not-stand-aside-our.mp3" length="30206684" type="audio/mpeg"/>
+    <guid isPermaLink="false">our-hakhamim-oALACGWhIyQ</guid>
+    <pubDate>Tue, 17 Nov 2026 09:22:32 -0000</pubDate>
+    <itunes:duration>1:01:52</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Rav Haim David HaLevi: A Gentle Posek for Changing Times | Our Hakhamim</title>
+    <description>Notes based on the transcript - https://docs.google.com/document/d/1LF3M2QuLNam0xoHQ-BAvn5vNPelOAio_CRG74_ixPJQ/edit?usp=sharing
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/qUv7jQRdhm8</description>
+    <itunes:summary>Notes based on the transcript - https://docs.google.com/document/d/1LF3M2QuLNam0xoHQ-BAvn5vNPelOAio_CRG74_ixPJQ/edit?usp=sharing
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/qUv7jQRdhm8</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/11/our-hakhamim-001-rav-haim-david-halevi-a-gentle-posek-for-changing-times.mp3" length="19311284" type="audio/mpeg"/>
+    <guid isPermaLink="false">our-hakhamim-qUv7jQRdhm8</guid>
+    <pubDate>Tue, 17 Nov 2026 09:22:58 -0000</pubDate>
+    <itunes:duration>0:49:57</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
