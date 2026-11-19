@@ -159,5 +159,30 @@ Listen on Spotify - https://open.spotify.com/episode/5D6T5xicqBL7SMqgds8Mfe
     <itunes:episode>7</itunes:episode>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>Wine Touched by Someone Who Does Not Keep Shabbat</title>
+    <description>Daily Halacha — Avodah Zarah and December Halachic Common Questions
+Dayan Daniel Kada
+
+Part of the Daily Halacha – Avodah Zarah and December Halachic Common Questions series.
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/_IIGFCUGgSs</description>
+    <itunes:summary>Daily Halacha — Avodah Zarah and December Halachic Common Questions
+Dayan Daniel Kada
+
+Part of the Daily Halacha – Avodah Zarah and December Halachic Common Questions series.
+
+Join Dayan Kada&#x27;s WhatsApp Community for all shiurim, classes &amp; live sessions - https://chat.whatsapp.com/CwnTjQnyBTRBRf27Y1CWsI
+
+▶ Watch on YouTube: https://youtu.be/_IIGFCUGgSs</itunes:summary>
+    <enclosure url="https://rabbikada.com/wp-content/uploads/2026/11/avodah-zara-007-wine-touched-by-someone-who-does-not-keep-shabbat-daily.mp3" length="3281396" type="audio/mpeg"/>
+    <guid isPermaLink="false">avodah-zara-_IIGFCUGgSs</guid>
+    <pubDate>Sun, 15 Nov 2026 18:33:34 -0000</pubDate>
+    <itunes:duration>0:06:13</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
